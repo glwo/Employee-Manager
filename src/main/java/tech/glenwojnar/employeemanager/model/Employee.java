@@ -35,6 +35,7 @@ public class Employee implements Serializable {
         this.employeeCode = employeeCode;
     }
 
+    // Getters and Setters
     public Long getId() {
         return id;
     }
