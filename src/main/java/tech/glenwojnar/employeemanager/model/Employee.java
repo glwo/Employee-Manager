@@ -9,6 +9,7 @@ import javax.persistence.Id;
 import java.io.Serializable;
 
 
+// Pretty similar to Js
 @Entity
 public class Employee implements Serializable {
     @Id
