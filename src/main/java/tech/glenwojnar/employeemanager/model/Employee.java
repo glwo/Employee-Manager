@@ -60,14 +60,17 @@ public class Employee implements Serializable {
         this.email = email;
     }
 
+    // Get JOb
     public String getJobTitle() {
         return jobTitle;
     }
 
+    // Set Job title
     public void setJobTitle(String jobTitle) {
         this.jobTitle = jobTitle;
     }
 
+    //  Get Phone
     public String getPhone() {
         return phone;
     }
