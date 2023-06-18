@@ -70,6 +70,7 @@ public class Employee implements Serializable {
         this.jobTitle = jobTitle;
     }
 
+    //  Get Phone
     public String getPhone() {
         return phone;
     }
