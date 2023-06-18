@@ -65,6 +65,7 @@ public class Employee implements Serializable {
         return jobTitle;
     }
 
+    // Set Job title
     public void setJobTitle(String jobTitle) {
         this.jobTitle = jobTitle;
     }
